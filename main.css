@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(57, 34, 87, 0.801);
+    padding: 0%;
+    margin: auto;
+}
+.container {
+    text-align: center;
+}
+
+h1{
+    color: white;
+}
+
+hr{
+    max-width: 300px;
+    color: white;
+}
+dt {
+    color: white;
+    font-weight: bold;
+    line-height: 30px;
+}
+dd{
+    color: rgb(255, 233, 32);
+}
+.profile {
+    border-radius: 15px;
+    box-shadow: 1px 1px ;
+    margin-top: 10px;
+}
